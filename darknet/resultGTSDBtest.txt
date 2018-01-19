@@ -1,0 +1,177 @@
+
+ seen 32 
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00058.JPEG: Predicted in 0.043037 seconds.
+12: 67%
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00341.JPEG: Predicted in 0.042462 seconds.
+13: 85%
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00159.JPEG: Predicted in 0.044040 seconds.
+38: 61%
+38: 51%
+38: 81%
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00467.JPEG: Predicted in 0.042835 seconds.
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00198.JPEG: Predicted in 0.044943 seconds.
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00360.JPEG: Predicted in 0.042506 seconds.
+8: 54%
+7: 73%
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00876.JPEG: Predicted in 0.043380 seconds.
+7: 44%
+3: 32%
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00774.JPEG: Predicted in 0.043770 seconds.
+1: 69%
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00472.JPEG: Predicted in 0.044592 seconds.
+12: 70%
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00343.JPEG: Predicted in 0.042749 seconds.
+1: 37%
+4: 56%
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00103.JPEG: Predicted in 0.044422 seconds.
+12: 26%
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00350.JPEG: Predicted in 0.044711 seconds.
+10: 73%
+10: 72%
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00258.JPEG: Predicted in 0.042645 seconds.
+11: 59%
+11: 67%
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00566.JPEG: Predicted in 0.042958 seconds.
+9: 61%
+9: 70%
+38: 51%
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00497.JPEG: Predicted in 0.042522 seconds.
+38: 65%
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00292.JPEG: Predicted in 0.042642 seconds.
+7: 61%
+5: 62%
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00193.JPEG: Predicted in 0.042606 seconds.
+14: 84%
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00738.JPEG: Predicted in 0.043249 seconds.
+38: 70%
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00889.JPEG: Predicted in 0.043755 seconds.
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00312.JPEG: Predicted in 0.042517 seconds.
+7: 84%
+23: 26%
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00719.JPEG: Predicted in 0.042569 seconds.
+2: 75%
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00232.JPEG: Predicted in 0.042917 seconds.
+13: 74%
+13: 69%
+38: 76%
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00502.JPEG: Predicted in 0.042829 seconds.
+17: 55%
+38: 40%
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00449.JPEG: Predicted in 0.042396 seconds.
+13: 78%
+13: 75%
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00446.JPEG: Predicted in 0.043680 seconds.
+17: 57%
+17: 54%
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00363.JPEG: Predicted in 0.044111 seconds.
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00392.JPEG: Predicted in 0.043272 seconds.
+7: 64%
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00435.JPEG: Predicted in 0.043435 seconds.
+10: 72%
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00772.JPEG: Predicted in 0.042278 seconds.
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00165.JPEG: Predicted in 0.043947 seconds.
+11: 80%
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00300.JPEG: Predicted in 0.043929 seconds.
+18: 45%
+4: 24%
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00870.JPEG: Predicted in 0.044295 seconds.
+5: 51%
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00689.JPEG: Predicted in 0.044255 seconds.
+11: 53%
+11: 54%
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00226.JPEG: Predicted in 0.042549 seconds.
+1: 85%
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00823.JPEG: Predicted in 0.043777 seconds.
+38: 57%
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00026.JPEG: Predicted in 0.043842 seconds.
+1: 72%
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00219.JPEG: Predicted in 0.044265 seconds.
+13: 81%
+33: 78%
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00163.JPEG: Predicted in 0.043194 seconds.
+38: 89%
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00122.JPEG: Predicted in 0.042741 seconds.
+2: 27%
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00659.JPEG: Predicted in 0.033171 seconds.
+4: 49%
+4: 73%
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00842.JPEG: Predicted in 0.033470 seconds.
+14: 79%
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00001.JPEG: Predicted in 0.033655 seconds.
+13: 77%
+34: 53%
+38: 80%
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00094.JPEG: Predicted in 0.032355 seconds.
+9: 85%
+1: 28%
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00855.JPEG: Predicted in 0.032314 seconds.
+29: 83%
+12: 65%
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00062.JPEG: Predicted in 0.033462 seconds.
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00436.JPEG: Predicted in 0.032384 seconds.
+5: 66%
+32: 46%
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00044.JPEG: Predicted in 0.033089 seconds.
+12: 54%
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00251.JPEG: Predicted in 0.032601 seconds.
+38: 86%
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00690.JPEG: Predicted in 0.032307 seconds.
+4: 30%
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00369.JPEG: Predicted in 0.032271 seconds.
+8: 24%
+8: 46%
+10: 26%
+10: 51%
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00433.JPEG: Predicted in 0.032411 seconds.
+30: 81%
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00477.JPEG: Predicted in 0.033857 seconds.
+5: 61%
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00675.JPEG: Predicted in 0.032731 seconds.
+13: 65%
+40: 39%
+38: 73%
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00871.JPEG: Predicted in 0.032436 seconds.
+6: 28%
+8: 69%
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00168.JPEG: Predicted in 0.033663 seconds.
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00121.JPEG: Predicted in 0.032369 seconds.
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00038.JPEG: Predicted in 0.032726 seconds.
+12: 25%
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00599.JPEG: Predicted in 0.032596 seconds.
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00810.JPEG: Predicted in 0.033672 seconds.
+11: 86%
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00744.JPEG: Predicted in 0.032408 seconds.
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00661.JPEG: Predicted in 0.032365 seconds.
+2: 70%
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00406.JPEG: Predicted in 0.033044 seconds.
+23: 26%
+30: 76%
+30: 32%
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00756.JPEG: Predicted in 0.032421 seconds.
+12: 72%
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00400.JPEG: Predicted in 0.032623 seconds.
+25: 73%
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00852.JPEG: Predicted in 0.032236 seconds.
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00262.JPEG: Predicted in 0.032084 seconds.
+12: 85%
+34: 50%
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00706.JPEG: Predicted in 0.033051 seconds.
+1: 32%
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00794.JPEG: Predicted in 0.032988 seconds.
+12: 60%
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00220.JPEG: Predicted in 0.033134 seconds.
+1: 79%
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00171.JPEG: Predicted in 0.033179 seconds.
+4: 76%
+9: 74%
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00200.JPEG: Predicted in 0.033829 seconds.
+14: 85%
+17: 48%
+33: 65%
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00266.JPEG: Predicted in 0.034851 seconds.
+18: 81%
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00077.JPEG: Predicted in 0.033369 seconds.
+21: 25%
+Enter Image Path: /home/abelsaug/Documents/Projects-workspace/ExploreAI/YOLOv2_initial/FullIJCNN2013/00570.JPEG: Predicted in 0.033816 seconds.
+9: 74%
+Enter Image Path: 
